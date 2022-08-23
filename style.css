@@ -1,0 +1,38 @@
+body
+{
+    background: linear-gradient(#00ffd5 0%, #00bfff 25%, #00bfff 50%, #00bfff 75%, #0040ff 100%);
+}
+
+.header_div
+{
+    background: #6dddfc;
+    color: #1900ff;
+}
+
+h2
+{
+    font-family:  'Pacifico', cursive;
+    letter-spacing: 2px;
+}
+
+.main_div button
+{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color:black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:#74eaff; 
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px grey;
+}
